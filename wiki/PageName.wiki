@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary What is SimplePaint
 
 = Introduction =
 
@@ -54,5 +54,4 @@ One could also add things like
  * the pencil, 
  * the eraser, 
  * image save and load. 
-
 
