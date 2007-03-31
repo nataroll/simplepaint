@@ -1,4 +1,5 @@
 #summary What is SimplePaint
+#labels Featured
 
 = Introduction =
 
@@ -54,4 +55,3 @@ One could also add things like
  * the pencil, 
  * the eraser, 
  * image save and load. 
-
